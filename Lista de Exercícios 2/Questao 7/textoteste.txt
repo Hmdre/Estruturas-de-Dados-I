@@ -1,0 +1,1 @@
+Um belo dia para fazer o teste deste programa chamado Questao7. Lembrando que para o funcionamento correto do mesmo nao deve conter acentuacao, por isso caso queira testar com um texto proprio tome esse cuidado.
